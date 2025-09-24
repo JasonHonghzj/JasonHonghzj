@@ -1,4 +1,4 @@
-## Hi there 👋
+# About me 👋
 
 <!--
 **JasonHonghzj/JasonHonghzj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+編輯中間 8 - 15行，完成後將第3、16行刪除
 -->
