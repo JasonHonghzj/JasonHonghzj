@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Jason 👋
 
-🎓 Currently pursuing a **Master's in Data Science at Boston University**
-🎓 Holds a  **Bachelor of Business Administration in Statistics at National Cheng Kung University**.
+🎓 Currently pursuing a **Master's in Data Science at Boston University**  
+🎓 Holds a  **Bachelor of Business Administration in Statistics at National Cheng Kung University**.  
 I enjoy turning complex datasets into **clear, actionable insights** that support data-driven decision-making. My interests span **data science, analytics, machine learning, and financial applications**, with a focus on connecting technical analysis with real-world problems.
 
 ---
