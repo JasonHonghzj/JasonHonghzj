@@ -1,82 +1,26 @@
-<!--
-**JasonHonghzj/JasonHonghzj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Zhi-Jun (Jason) Hong</h1>
 
-Here are some ideas to get you started:
+<p align="center"><strong>Data Science · Data Analytics · Boston, MA</strong></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">Master’s student in Data Science at Boston University</p>
 
-編輯中間 8 - 15行，完成後將第3、16行刪除
--->
-# Hi, I'm Jason 👋
+<p align="center">
+  <a href="https://jasonhonghzj.github.io/"><img src="https://img.shields.io/badge/Portfolio-475569?style=for-the-badge" alt="Portfolio" height="28"></a>
+  <a href="https://www.linkedin.com/in/zhijunhong/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn" height="28"></a>
+  <a href="mailto:zhijunhong0527@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me via Gmail" height="28"></a>
+</p>
 
-🎓 Currently pursuing a **Master's in Data Science at Boston University**  
-🎓 Holds a  **Bachelor of Business Administration in Statistics at National Cheng Kung University**.  
-I enjoy turning complex datasets into **clear, actionable insights** that support data-driven decision-making. My interests span **data science, analytics, machine learning, and financial applications**, with a focus on connecting technical analysis with real-world problems.
+## About Me
 
----
+I studied statistics and FinTech at National Cheng Kung University. My projects range from building data pipelines and dashboards to evaluating machine learning models. I’m open to data science and analytics roles.
 
-## 🔍 What I Work With
+## Selected Projects
 
-- 📊 **Data Analysis & Visualization** — uncovering patterns and communicating insights from complex datasets
-- 🤖 **Machine Learning** — building and evaluating predictive models for real-world applications
-- 📈 **Statistical Modeling** — applying statistical methods to understand uncertainty, risk, and relationships in data
-- 💼 **Business Analytics** — translating analytical results into meaningful business insights
+- **[NYC Yellow Taxi Analytics](https://github.com/JasonHonghzj/nyc-yellow-taxi-analytics)** — Built a PySpark and PostgreSQL pipeline and a six-page Streamlit dashboard to explore NYC taxi trips, fares, and pickup patterns.
+- **[Research Bridge](https://github.com/JasonHonghzj/ResearchBrdige_2026Hackachusettes)** — A research discovery prototype for exploring disease–method pairings in PubMed and exporting reproducible literature briefs.
+- **[Beyond ETFs](https://github.com/JasonHonghzj/Beyond-ETF-Portfolio-Optimization)** — Compared stock forecasting and portfolio allocation methods against 10 Taiwanese ETF benchmarks.
 
----
+## Tools
 
-## 🛠️ Tools & Technologies
-
-**Programming & Data**
-- Python
-- R
-- SQL
-
-**Analytics & Visualization**
-- Tableau
-- Excel
-- Google Looker Studio
-
-**Development**
-- Git
-- GitHub
-- Linux / Bash
-
----
-
-## 🚀 Featured Areas
-
-Some of the areas I've explored through academic and personal projects include:
-
-- 📊 **Data Visualization & Business Intelligence**
-- 🤖 **Machine Learning & Predictive Analytics**
-- 📉 **Financial Data Analysis**
-- 🗄️ **Data Processing & SQL**
-
----
-
-## 🎯 What I'm Looking For
-
-I'm currently seeking opportunities in **Data Science and Data Analytics** where I can:
-
-- Apply statistical and machine learning methods to real-world problems
-- Transform data into actionable insights
-- Build clear and effective data visualizations
-- Continue developing my technical and analytical skills
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/zhijunhong/
-- 📧 Email: zhijunhong0527@gmail.com
-<!--
-- 🌐 Portfolio: [Your Portfolio URL]
-等Portfolio做出來，把註解刪掉
--->
+**Programming & data:** Python · SQL · R · PySpark  
+**Dashboards & visualization:** Streamlit · Tableau · Excel
