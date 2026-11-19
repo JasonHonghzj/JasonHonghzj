@@ -8,6 +8,7 @@
   <a href="https://jasonhonghzj.github.io/"><img src="https://img.shields.io/badge/Portfolio-475569?style=for-the-badge" alt="Portfolio" height="28"></a>
   <a href="https://www.linkedin.com/in/zhijunhong/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn" height="28"></a>
   <a href="mailto:zhijunhong0527@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me via Gmail" height="28"></a>
+  <img src="https://img.shields.io/badge/Open%20to%202027%20new%20grad%20roles-A4470F?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTkuNTMzLjc1M1YuNzUyYy4yMTcgMi4zODUgMS40NjMgMy42MjYgMi42NTMgNC44MUMxMy4zNyA2Ljc0IDE0LjQ5OCA3Ljg2MyAxNC40OTggMTBjMCAzLjUtMyA2LTYuNSA2UzEuNSAxMy41MTIgMS41IDEwYzAtMS4yOTguNTM2LTIuNTYgMS40MjUtMy4yODYuMzc2LS4zMDguODYyIDAgMS4wMzUuNDU0QzQuNDYgOC40ODcgNS41ODEgOC40MTkgNiA4Yy4yODItLjI4Mi4zNDEtLjgxMS0uMDAzLTEuNUM0LjM0IDMuMTg3IDcuMDM1Ljc1IDguNzcuMTQ2Yy4zOS0uMTM3LjcyNi4xOTQuNzYzLjYwN1pNNy45OTggMTQuNWMyLjgzMiAwIDUtMS45OCA1LTQuNSAwLTEuNDYzLS42OC0yLjE5LTEuODc5LTMuMzgzbC0uMDM2LS4wMzdjLTEuMDEzLTEuMDA4LTIuMy0yLjI5LTIuODM0LTQuNDM0LS4zMjIuMjU2LS42My41NzktLjg2NC45NTMtLjQzMi42OTYtLjYyMSAxLjU4LS4wNDYgMi43My40NzMuOTQ3LjY3IDIuMjg0LS4yNzggMy4yMzItLjYxLjYxLTEuNTQ1Ljg0LTIuNDAzLjYzM2EyLjc5IDIuNzkgMCAwIDEtMS40MzYtLjg3NEEzLjE5OCAzLjE5OCAwIDAgMCAzIDEwYzAgMi41MyAyLjE2NCA0LjUgNC45OTggNC41WiIvPjwvc3ZnPg%3D%3D" alt="Open to 2027 new grad roles" height="28">
 </p>
 
 ## About Me
@@ -59,3 +60,27 @@ I trained a convolutional neural network on iNaturalist photos to distinguish ni
 
 **Development**  
 ![Git](https://img.shields.io/badge/Git-A74323?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-14669B?style=flat-square&logo=docker&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-345F7C?style=flat-square&logo=pytest&logoColor=white)
+
+<!-- Flame icon from GitHub Octicons (https://github.com/primer/octicons/blob/main/icons/flame-16.svg), recolored white.
+MIT License
+
+Copyright (c) 2026 GitHub Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+-->
